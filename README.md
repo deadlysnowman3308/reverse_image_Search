@@ -48,7 +48,6 @@ $ python3 reverse_image_Search.py
 
 <br>
 
-
 ## Tested on: -->
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/software-download/windows10)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
